@@ -1,0 +1,1 @@
+print('Nothing is more important than Life')
